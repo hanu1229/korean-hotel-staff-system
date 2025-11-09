@@ -42,8 +42,8 @@
 
 **주요 기술 스택:**
 
-* **Backend:** <img src="https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat-square&logo=spring&logoColor=white"/>
-* **Frontend:** <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+* **Backend:** <img src="https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-brightgreen?style=flat-square&logo=springBoot&logoColor=white"/>
+* **Frontend:** <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src = "https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" />
 
 <hr style="border: 2px solid #FF9800;">
 
